@@ -72,14 +72,14 @@ Berlin · Munich · Leipzig · Dresden · Köln · Rome · Paris · Wien · Madr
 
 WELCOME TO THE SHIPPING COMPANY APPLICATION..
 
-=========== SHIPPING COMPANY MENU ===========
-1- Show All Items
-2- Show All Cities
-3- Create New Order
-4- Show All Orders
-5- Add A New City
-6- Show All Trucks
-0- Exit
+## =========== SHIPPING COMPANY MENU ===========
+- **1- Show All Items**
+- **2- Show All Cities**
+- **3- Create New Order**
+- **4- Show All Orders**
+- **5- Add A New City**
+- **6- Show All Trucks**
+- **0- Exit**
 
 Your choice:-
 
