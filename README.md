@@ -90,3 +90,9 @@ Your choice:-
 - **Cost**: base €/km/gal **+ risk%**; **empty return** to Hamburg costs **€0.6/km** and is included.
 
 ---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
+
